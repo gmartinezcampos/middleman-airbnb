@@ -1,0 +1,44 @@
+gmartinezcampos:
+  name: "Gaby's home"
+  description: "Charming room in Rio de Janeiro"
+  city_name: "Rio de Janeiro, Brazil"
+  city_slug: "rio"
+  wifi: true
+  rating: 4
+  about: "This one bedroom lodges 2 people it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Ipanema Beach."
+  accomodates: 2
+  bathrooms: 1.5
+  bed_type: "1 king bed"
+  bedrooms: 1
+  property_type: "apartment"
+  room_type: "Entire home/apt"
+
+izzybrown:
+  name: "Izzy's home"
+  description: Small flat in London
+  city_name: "London, England"
+  city_slug: "london"
+  wifi: true
+  rating: 3
+  about: "This two bedroom lodges 4 people. It is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sloane Square."
+  accomodates: 4
+  bathrooms: 2
+  bed_type: "2 double beds"
+  bedrooms: 2
+  property_type: "town house"
+  room_type: "Entire home/apt"
+
+lucien-george:
+  name: Lucien's home
+  description: Nice flat in Paris
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 5
+  about: "This one bedroom studio lodges 2 people it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+  accomodates: 2
+  bathrooms: 1
+  bed_type: "1 double beds"
+  bedrooms: 1
+  property_type: "apartment"
+  room_type: "Entire home/apt"
